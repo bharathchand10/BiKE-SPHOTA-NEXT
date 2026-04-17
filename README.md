@@ -34,4 +34,4 @@
   BiKE_upgrade/
   ├── pubchem_mapper.py                                                                                                                                                                 
   ├── generate_pubchem_triples_v2.py
-  └── simple_chebi_mapper.py
+  
