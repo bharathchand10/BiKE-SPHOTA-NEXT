@@ -6,7 +6,7 @@
 
   This enhancement adds PubChem chemical property triples to the knowledge graph, improving compound embeddings in K-BERT training.                                                     
    
-  ## Additional Steps (Before Step 5)                                                                                                                                                   
+  ## Additional Steps (Before Step 5 in BiKE-SPHOTA's readme file)                                                                                                                                                   
                   
   ### 4.5: Generate PubChem Triples
 
